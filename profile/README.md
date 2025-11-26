@@ -1,17 +1,17 @@
 # RiOMar: Research and Innovation for the Ocean
 
-![RiOMar Logo](https://riomar.lsce.ipsl.fr/wp-content/uploads/2023/07/cropped-Logo_RiOMar_rond.png)
-
-**RiOMar** is a multidisciplinary research project focused on co-constructing environmental solutions for coastal ecosystems, leveraging digital twins, modeling, and stakeholder engagement.
-
----
-
 ## 🌊 About RiOMar
 
-RiOMar is a Priority Research Program (PPR) dedicated to understanding and addressing the environmental challenges facing coastal oceans. The project integrates scientific research, stakeholder collaboration, and public outreach to develop innovative solutions for sustainable coastal management.
+<img src="cropped-Logo_RiOMar_rond.png" alt="RiOMar Logo" align="left" width="200" style="margin-right: 10px; margin-bottom: 10px;">
+
+**RiOMar** is a Priority Research Program (PPR) dedicated to understanding and addressing the environmental challenges facing coastal oceans. This multidisciplinary project integrates scientific research, stakeholder collaboration, and public outreach to develop innovative solutions for sustainable coastal management. This project is focussed on the five River-dominated Ocean Margins (RiOMar) of France: Eastern Channel, South Brittany, South Biscay, Pertuis Sea, and Gulf of Lion.
+
+
+<br clear="left">
 
 ### Key Objectives:
 - **Co-construction of environmental solutions** with stakeholders at national and regional scales.
+- **Augmented observatories** that leverage innovative autonomous sensors, low-cost devices, and remote sensing.
 - **Development of digital twins** for coastal oceans to simulate and predict environmental trajectories.
 - **Public engagement and education** through outreach activities, workshops, and events.
 
@@ -51,10 +51,10 @@ RiOMar is a Priority Research Program (PPR) dedicated to understanding and addre
   - WP1: Co-construction of solutions
   - WP2: Augmented observations and data management
   - WP3: Digital Twin of the Coastal Ocean
-  - WP4: Eastern Channel-Bay of Seine
-  - WP5: South Brittany-Loire-Vilaine
+  - WP4: Eastern Channel - Bay of Seine
+  - WP5: South Brittany - Loire-Vilaine
   - WP6: South Biscay - Gironde
-  - WP7: Pertuis Sea – Charente-Gironde
+  - WP7: Pertuis Sea - Charente-Gironde
   - WP8: Gulf of Lion - Rhône
 
 - **Deliverables:**
