@@ -1,6 +1,6 @@
 # RiOMar: Research and Innovation for the Ocean
 
-![RiOMar Logo](https://riomar.lsce.ipsl.fr/wp-content/uploads/2023/07/logo_riomar.png)
+![RiOMar Logo][(https://riomar.lsce.ipsl.fr/wp-content/uploads/2023/07/logo_riomar.png](https://riomar.lsce.ipsl.fr/wp-content/uploads/2023/07/cropped-Logo_RiOMar_rond.png))
 
 **RiOMar** is a multidisciplinary research project focused on co-constructing environmental solutions for coastal ecosystems, leveraging digital twins, modeling, and stakeholder engagement.
 
