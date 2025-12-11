@@ -40,9 +40,14 @@ including many [videos on YouTube](https://www.youtube.com/results?search_query=
 ## GitHub via IDE
 
 The preferable way to work with [__GitHub__](https://github.com/home) in the long-run is via an IDE. There are many and an exhaustive list is not provided here. 
-If your IDE of choice is not listed here please contact Robert Schlegel (robert.schlegel@imev-mer.fr) for support.
+If your IDE of choice is not listed here please contact Robert Schlegel (robert.schlegel@imev-mer.fr) for support. Note that the resources provided below are good, but not necessarily the only options. An internet search (and YouTube) will provide a long list of options. 
+The links here have been vetted and provide a quick starting point for those who do not want to go wading through the deluge of choices on the internet.
 
 - [__Visual Studio Code__ - basic](https://code.visualstudio.com/docs/sourcecontrol/github)
 - [__Visual Studio Code__ - student pack](https://code.visualstudio.com/learn/students/github-pack)
+- [__PyCharm__ - basic](https://www.jetbrains.com/help/pycharm/github.html)
 - [__RStudio__ - e-book](https://happygitwithr.com/rstudio-git-github.html)
+- [__RStudio__ - for Biologists](https://r-bio.github.io/intro-git-rstudio/)
+- [__Jupyter Notebooks__ - via GitHub](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
+- [__Jupyter Notebooks__ - via terminal](https://saturncloud.io/blog/how-to-add-jupyter-notebook-to-github/)
 
