@@ -79,7 +79,7 @@
 ## 📚 Resources
 
 - [RiOMar Website](https://riomar.lsce.ipsl.fr/)
-- [GitHub totorial](https://github.com/RiOMar-projet/.github/blob/main/profile/GitHub_tut.md)
+- [GitHub Tutorial](https://github.com/RiOMar-projet/.github/blob/main/profile/GitHub_tut.md)
 - [Fête de la Science 2024](https://www.fetedelascience.fr/)
 - [Année de la Mer 2024–2025](https://www.anneedelamer.fr/)
 
