@@ -39,9 +39,9 @@ including many [videos on YouTube](https://www.youtube.com/results?search_query=
 
 ## GitHub via IDE
 
-The preferable way to work with [__GitHub__](https://github.com/home) in the long-run is via an IDE. There are many and an exhaustive list is not provided here. 
+The preferable way to work with [__GitHub__](https://github.com/home) in the long-run is via an IDE (**I**ntegrated **D**evelopment **E**nvironment). There are many and an exhaustive list is not provided here. 
 If your IDE of choice is not listed here please contact Robert Schlegel (robert.schlegel@imev-mer.fr) for support. Note that the resources provided below are good, but not necessarily the only options. An internet search (and YouTube) will provide a long list of options. 
-The links here have been vetted and provide a quick starting point for those who do not want to go wading through the deluge of choices on the internet.
+The links here have been vetted and provide a quick starting point for those who do not want to go wading through the deluge of existing content.
 
 - [__Visual Studio Code__ - basic](https://code.visualstudio.com/docs/sourcecontrol/github)
 - [__Visual Studio Code__ - student pack](https://code.visualstudio.com/learn/students/github-pack)
