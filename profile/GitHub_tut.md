@@ -61,5 +61,9 @@ If a repository already exists, and you are interested in simply downloading the
 
 ## Contributing to repositories
 
-If a colleague has already established a repository, and you would like to contribute to the code they've written, first ask them to grant you access. This can be found in the settings tab, then access (e.g. [RiOMar/sat_access](https://github.com/RiOMar-projet/sat_access/settings/access)). This will generate an invitation e-mail, which one must accept to finish the process. Once access is established, one must then pull the repository to one's local machine for the first time to establish the connection. Instructions for how to do so are given in the __GitHub via IDE__ section.
+If a colleague has already established a repository, and you would like to contribute to the code they've written, first ask them to grant you access. This can be found in the settings tab, then access (e.g. [RiOMar/sat_access](https://github.com/RiOMar-projet/sat_access/settings/access)). This will generate an invitation e-mail, which one must accept to finish the process. Once access is established, one must then pull the repository to one's local machine for the first time to establish the connection. Instructions for how to do so are given in the __GitHub via IDE__ section. Now that the code has been pulled to one's local computer, it is possible to work on it in whichever IDE one would normally use when writing code. When fisnished, makes sure all changes are saved and push the code back up to the repository. 
+
+## Closing thought
+
+Most peoples first reaction to this process is to be nervous about accidently deleting something or otherwise causing some sort of unforeseen chaos. While mistakes can always happen when learning a new system, git/GitHub are generally very robust version control tools that help to prevent problems, rather than causing more of them. But words are easy to write. If anyone is interested in making GitHub part of their workflow, but isn't quite convinced, please don't hesitate to reach out to Robert Schlegel (robert.schlegel@imev-mer.fr) to setup a meeting to discuss any questions/concerns.
 
