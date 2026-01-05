@@ -51,3 +51,15 @@ The links here have been vetted and provide a quick starting point for those who
 - [__Jupyter Notebooks__ - via GitHub](https://reproducible-science-curriculum.github.io/sharing-RR-Jupyter/01-sharing-github/)
 - [__Jupyter Notebooks__ - via terminal](https://saturncloud.io/blog/how-to-add-jupyter-notebook-to-github/)
 
+## Creating repositories
+
+If you are starting a new project, and computer code will represent a significant portion of the effort, it is strongly advised to create a new GitHub repository for it. This can be done via your personal GitHub account by going to the _Repository_ tab in your profile and clicking the green 'New' button. One can then follow the step-by-step instructions provided by GitHub to finish the setup process. If however the new project is contained completely within the cadre of he RiOMar project, one can also create the new repository within the [RiOMar GitHub space](https://github.com/orgs/RiOMar-projet/repositories). Click the green 'New Repository' button to get started. Once created you will want to link your local computer to this repository so pushing and pulling to it will be simple. Please see the tutorials in the __GitHub via IDE__ section for how to get this started.
+
+## Cloning repositories
+
+If a repository already exists, and you are interested in simply downloading the code, not contributing to it, this can be done directly through the GitHub web interface. Go to the home page of the  repository in question (e.g. [RiOMar/sat_access](https://github.com/RiOMar-projet/sat_access)), click the green 'Code' button, then the 'Download ZIP' option at the bottom of the pop-up menu. This will download the contents of the entire repository as a .zip file to your local machine. One can then unzip it and access all of the scripts etc. therein. The files/folders will be structured identical to the repository, meaning that any scripts that make calls to local files should work as anticipated.
+
+## Contributing to repositories
+
+If a colleague has already established a repository, and you would like to contribute to the code they've written, first ask them to grant you access. This can be found in the settings tab, then access (e.g. [RiOMar/sat_access](https://github.com/RiOMar-projet/sat_access/settings/access)). This will generate an invitation e-mail, which one must accept to finish the process. Once access is established, one must then pull the repository to one's local machine for the first time to establish the connection. Instructions for how to do so are given in the __GitHub via IDE__ section.
+
